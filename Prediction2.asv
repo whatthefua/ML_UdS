@@ -1,8 +1,5 @@
 % Prediction function of 3-Layer FNN
-
 % Call Prediction2(Basis(Xtrain)); to see loss against training data
-% Comment lines 19 - 22 to leave out loss
-% Returns predictions
 
 function y = Prediction2(x)
     % Import weights
